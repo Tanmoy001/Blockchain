@@ -1,0 +1,33 @@
+.testimonial{
+    margin-bottom: 7rem;
+    margin-top: 4rem;
+}
+.testimonial h2,h4{
+    
+    text-align: center;
+    
+}
+.testimonial h2{
+    color: brown;
+}
+.testimonial_container{
+    margin-top: 3rem;
+    height: 20rem;
+    margin-bottom: 3rem;
+
+}
+.upload{
+    background: cadetblue;
+}
+#img{
+    height: 24rem;
+}
+h5,p{
+    color: black;
+}
+.carousel-item{
+    color: black;
+}
+.carousel-indicators{
+    background: cadetblue;
+}

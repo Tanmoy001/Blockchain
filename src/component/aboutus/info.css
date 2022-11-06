@@ -1,0 +1,30 @@
+.Information h2{
+    color: brown;
+}
+.content_info{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2rem;
+}
+.content_item{
+background: linear-gradient(45deg,lightblue,#7094ce);
+padding: 1.3rem;
+border-radius:2rem ;
+border: 1px transparent;
+}
+.content_item:hover{
+    background: aliceblue;
+    border: 1px solid black;
+}
+.content_icon{
+    height: 3em;
+    width: 3em;
+    margin-left: 42%;
+}
+.content_item h2{
+    justify-content: center;
+    text-align: center;
+}
+.content_item h4{
+    padding: 1rem;
+}
